@@ -1,11 +1,11 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Glove-Controlled Robotic Hand
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Katherine | Monta Vista High School | Electrical Engineering | Incoming Junior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLUBvTGGc-KuFo-QM_ttqO3pKdKPEYyeh8F9vEdR7bSppyBTxWm-ChyVq-fbNsnGftZKzQmyh6wYlfW-bPEdbwGkD4FIDPdsiOM2i1JxbLW5ZVmRho28HbJOL38ttRbiiuB1pMm7hJQkr6ooRdM4DQ2X=w1413-h1883-no?authuser=0)
   
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
@@ -22,7 +22,7 @@ My first milestone was constructing the hand out of styrofoam, connecting the se
 
 I liked learning how the breadboard worked and enjoyed experimenting with different layouts to determine what would work the best. I struggled with assembling the hand. The parts are primarily held together by duct tape and aren't able to withstand the force from the servos pulling on the string, so I had to re-tape frequently. I also struggled with coding, but I did some research on what different functions did and understand how my code works.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cq2TIxhJM8k "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone]([[Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657640738/video_to_markdown/images/youtube--cq2TIxhJM8k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cq2TIxhJM8k "Milestone 1")){:target="_blank" rel="noopener"}
 
 # Starter Project
 My starter project was the Useless Machine. When the switch on the outside of the box is flipped, it powers a motor that is attached to an arm which moves to flip the switch in the opposite direction, causing the motor to spin in the opposite direction, bringing the arm back to its original position. The motor includes a piece of metal in the middle coiled by wire, which turns it into a magnet when electricity from the batteries runs through it. This magnet is surrounded by another magnet, and each of these magnets has a north pole on one side and a south pole on the other side. When the north side of one magnet meets the north side of the other magnet, the alike forces repel each other, causing the inner magnet to move a half rotation. The motor is able to move another half rotation when electromagnetic energy causes the charges of the poles of the outer magnet to switch, which places the north side of one magnet near the north side of the other magnet, causing the inner magnet to move another half rotation. At this point, the motor has spun a full rotation. This process repeats, allowing the motor to spin.
