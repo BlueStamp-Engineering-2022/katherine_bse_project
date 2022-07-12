@@ -1,5 +1,5 @@
 ﻿# Glove-Controlled Robotic Hand
-
+My project is a glove-controlled robotic hand, which is a hand that takes information from a glove covered in flex sensors to move. It is intended to be able to hold objects and display musical techniques.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
