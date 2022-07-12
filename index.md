@@ -29,4 +29,4 @@ My starter project was the Useless Machine. When the switch on the outside of th
 
 This project helped me to learn how to solder, but I had difficulties along the way. While soldering, it was taking me a long time to melt the solder. Later I realized that I had forgotten to tin the tip of my solder iron, which was slowing me down and causing me to lose efficiency while soldering. When I started tinning the tip of my iron, I found that the process went by much faster and made mental notes to periodically re-tin my tip when I was soldering. 
 
-[![Starter Project](https://3.bp.blogspot.com/--XA3iMvaJLY/Tw_GykPs-eI/AAAAAAAAEgU/EmFKS7Cz5xQ/s1600/Duck-04.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08 "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657641442/video_to_markdown/images/youtube--zHHrVlNTF08-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08&t=36s "Starter Project")
