@@ -43,11 +43,11 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 
 #### Circuit Schematic
 ![hand_schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG)
-  </p>
-  </details>
-
+ 
 #### Hand Render
 ![hand_render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
+ </p>
+  </details>
 
 # References
 Project Idea [^1]
