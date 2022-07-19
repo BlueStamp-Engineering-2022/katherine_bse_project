@@ -7,19 +7,6 @@ My project is a glove-controlled robotic hand, which is a hand that takes inform
 
 ![Headstone Image](https://user-images.githubusercontent.com/108292161/179852268-de31a649-9426-4229-bcb8-5d4d218b1511.png)
 
-  
-# Gallery
-#### Circuit Diagram
-![hand_diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png)
-
-#### Circuit Schematic
-![hand_schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG)
-
-
-#### Hand Render
-![hand_render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
-
-
 # Final Milestone
 My third milestone was assembling my 3D parts. This involved some trial and error because the parts I designed didn’t fit together perfectly. Some parts of the fingers got stuck because there wasn’t enough space between them, so I filed them down to fit better. They also got stuck because the fingers bent backwards instead of forwards, so I adjusted the parts using bits of toothpicks to keep them lined up. Since my design had the servos so close to one another, I had difficulty with the servo horns rotating into each other. To fix this, I moved the servos away from each other and reversed the direction some of the servos rotated. To get the hand to be able to hold things, I calibrated the pinky and ring fingers to touch the palm when bent all the way. This makes it so that one end of an object can be held between the thumb and index finger and the other end can be held between the ring and pinky fingers and the palm, holding it in place.
 
@@ -47,3 +34,14 @@ My starter project was the Useless Machine. When the switch on the outside of th
 This project helped me to learn how to sodder, but I had difficulties along the way. While soddering, it was taking me a long time to melt the sodder. Later I realized that I had forgotten to tin the tip of my sodder iron, which was slowing me down and causing me to lose efficiency while soddering. When I started tinning the tip of my iron, I found that the process went by much faster and made mental notes to periodically re-tin my tip when I was soddering. 
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657641442/video_to_markdown/images/youtube--zHHrVlNTF08-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08&t=36s "Starter Project")
+
+# Gallery
+#### Circuit Diagram
+![hand_diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png)
+
+#### Circuit Schematic
+![hand_schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG)
+
+
+#### Hand Render
+![hand_render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
