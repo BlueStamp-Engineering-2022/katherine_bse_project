@@ -36,8 +36,14 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657641442/video_to_markdown/images/youtube--zHHrVlNTF08-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08&t=36s "Starter Project")
 
 # Gallery
-<details><summary>GALLERY</summary>
+<details><summary>STARTER PROJECT</suummary>
   <p>
+  </p>
+  </details>
+  
+<details><summary>HAND</summary>
+  <p>
+    
 #### Circuit Diagram
 ![hand_diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png)
 
