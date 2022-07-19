@@ -52,7 +52,15 @@ This project helped me to learn how to sodder, but I had difficulties along the 
     
 #### Prototype Hand 
 ![image](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png)
-   
+    
+#### Front View
+    
+#### Side View
+    
+#### Angry Hand
+    
+#### Musically Gifted Hand
+    
 #### Circuit Diagram
 ![hand_diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png)
 
