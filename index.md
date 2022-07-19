@@ -39,6 +39,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 
 # Gallery
 <details>
+    
     <summary>Starter Project</summary>
     
     #### Useless Machine
@@ -46,6 +47,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 </details>
   
 <details>
+    
     <summary>Hand</summary>
     
     #### Prototype Hand 
