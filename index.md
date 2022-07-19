@@ -21,11 +21,9 @@ My project is a glove-controlled robotic hand, which is a hand that takes inform
 
 
 # Final Milestone
-My third milestone was assembling my 3D parts. This involved some trial and error because the parts I designed didn’t fit together perfectly. Some parts of the fingers got stuck because there wasn’t enough space between them, so I filed them down to fit better. They also got stuck because the fingers bent backwards instead of forwards, so I adjusted the parts using bits of toothpicks to keep them lined up.
+My third milestone was assembling my 3D parts. This involved some trial and error because the parts I designed didn’t fit together perfectly. Some parts of the fingers got stuck because there wasn’t enough space between them, so I filed them down to fit better. They also got stuck because the fingers bent backwards instead of forwards, so I adjusted the parts using bits of toothpicks to keep them lined up. Since my design had the servos so close to one another, I had difficulty with the servo horns rotating into each other. To fix this, I moved the servos away from each other and reversed the direction some of the servos rotated. To get the hand to be able to hold things, I calibrated the pinky and ring fingers to touch the palm when bent all the way. This makes it so that one end of an object can be held between the thumb and index finger and the other end can be held between the ring and pinky fingers and the palm, holding it in place.
 
-Since my design had the servos so close to one another, I had difficulty with the servo horns rotating into each other. To fix this, I moved the servos away from each other and reversed the direction some of the servos rotated.
-
-To get the hand to be able to hold things, I calibrated the pinky and ring fingers to touch the palm when bent all the way. This makes it so that one end of an object can be held between the thumb and index finger and the other end can be held between the ring and pinky fingers and the palm, holding it in place.
+I enjoyed seeing the project come together, and having a hand that moves cleanly after having to deal with my styrofoam prototype for two weeks. While there are more things I could do, like adding a wrist joint and making the sensitivity between the fingers and the sensors more accurate, I am proud of what I have accomplished so far and am looking forward to making other projects with the skills I have gained.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
