@@ -5,7 +5,8 @@ My project is a glove-controlled robotic hand, which is a hand that takes inform
 |:--:|:--:|:--:|:--:|
 | Katherine | Monta Vista High School | Electrical Engineering | Incoming Junior
 
-![Headstone Image](https://lh3.googleusercontent.com/sO5PYacAzucFL30zqmbjX_FmSWsB1nZOPrcRWfryW_E6dQ2NEA2VV4uMkG4ayA1e4TfZKiW4TVEYY-uuKgKWLosBy5h0FjOdsPGRPYLSyxTwF1-B_UkTiVgHAiI-b5H1H_Dq7CeKd2d_ojS5xETpQ1Kl916VaT-WzE_xvQL0spGfdHAfoZ__CPgnapRk4aw_b1c5I4_AksUJvKLr-S5aJ7UzTvmuX3aJKh69DrzVx7iyluIhAninEdAaJ7LX6bnrZwONvwqz8Ee4F2c_CInTkb1Q1J9KPXQ7WZak83jb462-bQc6_AtbA1wILXy7eaOUljpBlxpYZSGxqfEMMdAEi6SB0OkeNHt-nSeJ8svg1s31c_Tzy3FesmgeEmjdgKdA-Wq_a8fJrcwXCTCtOPoagVSFzE2cH1rGCNDbAplKINVxJQCaJQnPehFwmBPhQ7uheUZzZ34pNWY1bGR3LyCF3Pcrrki6-mNWDgG2xzvnggio3Cns3i5HTT2Eze1HcNa1T6ityPqXJdrYnsovsCK4Qrsb57K_MHPQT2FS0UIYoAlTpaFNuF2lRPvSi4PjGZr2fePPTKuQmgaTsQq7IZtNa2X45wrqDBzIVRlP1gIoRkNHRL-5Fr693CjzYlIPVW5508HwC3I5ORw0GAzbE6X04DwKjlW6raVpZcCYBxknUrDYj_GeVjX0mwijxi-97nlspobUgbmYutK1ucDymcw_Q_motcmT9qv3fcVuP9y0qdmkIE-lGjyCBdvArm2f9Q=s250-k-rw-no)
+![Headstone Image](https://user-images.githubusercontent.com/108292161/179852268-de31a649-9426-4229-bcb8-5d4d218b1511.png)
+
   
 # Gallery
 #### Circuit Diagram
