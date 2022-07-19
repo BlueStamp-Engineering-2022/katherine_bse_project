@@ -38,14 +38,15 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 # Gallery
 <details><summary>Starter Project</suummary>
   <p>
-  </p>
-  </details>
-  
+    
 #### Useless Machine
 
 #### Approaching
 
 #### Retreating
+    
+  </p>
+  </details>
   
 <details><summary>Hand</summary>
   <p>
