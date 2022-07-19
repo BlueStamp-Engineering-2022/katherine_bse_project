@@ -35,38 +35,46 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657641442/video_to_markdown/images/youtube--zHHrVlNTF08-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08&t=36s "Starter Project")
 
+# Gallery
+<details><summary>CLICK ME</summary>
+<p>
+
+#### Useless Machine
+   
+#### Approaching
+   
+#### Retreating
+</p>
+</details>
+
+
 <details><summary>CLICK ME</summary>
 <p>
 
 #### Prototype Hand 
    ![Prototype Hand](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png) 
 
-```ruby
-   puts "Hello World"
-```
-
+#### Front View 
+   
+#### Side View 
+   
+#### Angry Hand 
+   
+#### Musically Gifted Hand 
+   
+#### Circuit Diagram 
+   ![Circuit Diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png) 
+   
+    #### Circuit Schematic 
+   ![Circuit Schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG) 
+   
+    #### Hand Render 
+   
+   ![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
+   
 </p>
 </details>
 
-# Gallery
-<details>
-    <summary>Starter Project</summary>
-    
-#### Useless Machine
-  
-</details>
-
-<details>
-    <summary>Hand</summary>
-    
-    #### Front View 
-    #### Side View 
-    #### Angry Hand 
-    #### Musically Gifted Hand 
-    #### Circuit Diagram ![Circuit Diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png) 
-    #### Circuit Schematic ![Circuit Schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG) 
-    #### Hand Render ![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
-    </details>
 
 # References
 Project Idea [^1]<br>
