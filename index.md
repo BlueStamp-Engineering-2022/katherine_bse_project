@@ -65,10 +65,10 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 ![Circuit Diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png)
 
 #### Circuit Schematic
-![Circuit Schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.png)
+![Circuit Schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG)
  
 #### Hand Render
-![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.png)
+![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
  </p>
   </details>
 
