@@ -44,7 +44,6 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 #### Approaching
 
 #### Retreating
-    
   </p>
   </details>
   
