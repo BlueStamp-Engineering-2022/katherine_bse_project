@@ -38,7 +38,8 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
+#### Prototype Hand 
+   ![Prototype Hand](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png) 
 
 ```ruby
    puts "Hello World"
@@ -57,7 +58,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 
 <details>
     <summary>Hand</summary>
-    #### Prototype Hand ![Prototype Hand](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png) 
+    
     #### Front View 
     #### Side View 
     #### Angry Hand 
