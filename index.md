@@ -7,14 +7,7 @@ My project is a glove-controlled robotic hand, which is a hand that takes inform
 
 ![Headstone Image](https://lh3.googleusercontent.com/sO5PYacAzucFL30zqmbjX_FmSWsB1nZOPrcRWfryW_E6dQ2NEA2VV4uMkG4ayA1e4TfZKiW4TVEYY-uuKgKWLosBy5h0FjOdsPGRPYLSyxTwF1-B_UkTiVgHAiI-b5H1H_Dq7CeKd2d_ojS5xETpQ1Kl916VaT-WzE_xvQL0spGfdHAfoZ__CPgnapRk4aw_b1c5I4_AksUJvKLr-S5aJ7UzTvmuX3aJKh69DrzVx7iyluIhAninEdAaJ7LX6bnrZwONvwqz8Ee4F2c_CInTkb1Q1J9KPXQ7WZak83jb462-bQc6_AtbA1wILXy7eaOUljpBlxpYZSGxqfEMMdAEi6SB0OkeNHt-nSeJ8svg1s31c_Tzy3FesmgeEmjdgKdA-Wq_a8fJrcwXCTCtOPoagVSFzE2cH1rGCNDbAplKINVxJQCaJQnPehFwmBPhQ7uheUZzZ34pNWY1bGR3LyCF3Pcrrki6-mNWDgG2xzvnggio3Cns3i5HTT2Eze1HcNa1T6ityPqXJdrYnsovsCK4Qrsb57K_MHPQT2FS0UIYoAlTpaFNuF2lRPvSi4PjGZr2fePPTKuQmgaTsQq7IZtNa2X45wrqDBzIVRlP1gIoRkNHRL-5Fr693CjzYlIPVW5508HwC3I5ORw0GAzbE6X04DwKjlW6raVpZcCYBxknUrDYj_GeVjX0mwijxi-97nlspobUgbmYutK1ucDymcw_Q_motcmT9qv3fcVuP9y0qdmkIE-lGjyCBdvArm2f9Q=s250-k-rw-no)
   
-# Final Milestone
-My third milestone was assembling my 3D parts. This involved some trial and error because the parts I designed didn’t fit together perfectly. Some parts of the fingers got stuck because there wasn’t enough space between them, so I filed them down to fit better. They also got stuck because the fingers bent backwards instead of forwards, so I adjusted the parts using bits of toothpicks to keep them lined up.
-
-Since my design had the servos so close to one another, I had difficulty with the servo horns rotating into each other. To fix this, I moved the servos away from each other and reversed the direction some of the servos rotated.
-
-To get the hand to be able to hold things, I calibrated the pinky and ring fingers to touch the palm when bent all the way. This makes it so that one end of an object can be held between the thumb and index finger and the other end can be held between the ring and pinky fingers and the palm, holding it in place.
-
-## Gallery
+# Gallery
 #### Circuit Diagram
 ![Circuit Diagram](https://lh3.googleusercontent.com/6WFeu9fKfT0qkfm8UyBf0VbCJmw2R3lXrs-wJsLB5wcnFqleiMkBPnHyh2b3MqC19-JimbX2csUGcMiIet5AZtZNxYRrl8_mMozHZmdm18U5WzAcotelaOt9ELw5czH6Vcb5EquXhUK-DnP55gvFCYGj21d1zAVXQnDB4LqSGIEx48Fwh8qgbnjqPeEuu088Z235fiJteUJ8USRgojuI_Ru2dbo6WoUslWRHpdTfIOWAwj071JJCBnKIbqY3ujRTcHfZRVTMOfvuNQiBxuYkcYCZwdZJm7Mg3gZpoxidY8QIJwVZKh_Q66X1ApSuzG9_k3pICEfH8GmY5vkcPjNZ-EpG1nHgYcAu4u8mIKZGZNKmCNdOj2lw55iLhZOBIrOv2lgpvKGttUWoJ-PB60_-PetvPn6m9HuABok5SpCB-9OE00dsfTQiGHlFj0NJP-hxvvNBPUjECuUfxq9wYfaIQ3QPYv4LsTlt1nVQooGJtM8X9alXFUGTYseZwTUdX8fP1ApBWahK-_wbkEoHs3RjFOx1nZj6yN4O0Xl3zX6X2ztqvzInsDU2QDtlj3ON5Phpvzsfjb9azZB6FuGrJ4cDH6Ag9cSKV_A3DI3YHOOfF9gGNpqQdoqwfVx3EwQcuDfnaDcHM1Dhzi9NUXBSvL5MvzB4SoO62X-BoK53plILmVPDlsj3x7c1t19_ZLseWJpF4wUiE5SvU9UZIOdI-LLHwWaO5xYzYcPzx_jOrGx_PSDUk3uKxnOA3GGzQyFCqA=w1536-h656-no?authuser=0)
 
@@ -23,6 +16,13 @@ To get the hand to be able to hold things, I calibrated the pinky and ring finge
 
 #### Hand Render
 ![Hand Render](https://lh3.googleusercontent.com/wdUIWnJRfL5-w0sgTWjGMn0nYjBbluEULOJub_PFvKejtVVTrKi-EeVeFC0Bxlak38tBMLKxjNvtG_bkKMwzpeC_bEHkWlJdS5_cPS47Zy8ghOsPsOfEGCJly7zlDmfYZDcgTvYUnNqlrYsxEieFwxFC-QfmCycqTDWI4ISAihRlPZ0pa3sywD6An0eJaM349SXLDsgA4S3-WiGZG_lObzYND1LowMrdB2uP1UK0C9AF-gKiJKQGqW6IEyYgW9ZIzfPNm7dXurCWGVHgJNtDNJkB4Xj0YU7ch801qUepDhbL0P-zsdHwddXdXWEn5DFnKK7KyfkCPCormsIk6fyR4Q2oQEjWBCOpxAqWafpbi0PGX58gmed35Rk_7QfJldMDeKpprim2p0DRjGgnjDcnaRlAVUaVBwp2sqmGXZAJJWm1XiaDHzF5pn3FT9qOYc8-VWlO5kKnLfGnj4g65JLc_rpYH7vBWZC7gIscrLKcROIvRXOhT-xSqRAG9eFIMYWrSoTQcezG47G1y6e1LJOYdGcBDuX0mnWwUbgF6MF-3zm3fUHoxWi8sOuv-Ff3HSCTbB9nbp9p1u3RyYEWm-omeHCqKglIpoDsBPmA5wzRws50jenx32ldGtPZzl8AnoseFeZ2nOArb_evpWBXcFtz2tcF9tJXfrrxlmgUtg3dfsxDt8iCZCpUAqzotr5Tn-GjExUMo_RcpB9AXYRtDV9RJm49NlZPL6ikmXEoADEhb-ngE6eYZ6tHv_SupSMB_w=w2043-h1326-no?authuser=0)
+
+# Final Milestone
+My third milestone was assembling my 3D parts. This involved some trial and error because the parts I designed didn’t fit together perfectly. Some parts of the fingers got stuck because there wasn’t enough space between them, so I filed them down to fit better. They also got stuck because the fingers bent backwards instead of forwards, so I adjusted the parts using bits of toothpicks to keep them lined up.
+
+Since my design had the servos so close to one another, I had difficulty with the servo horns rotating into each other. To fix this, I moved the servos away from each other and reversed the direction some of the servos rotated.
+
+To get the hand to be able to hold things, I calibrated the pinky and ring fingers to touch the palm when bent all the way. This makes it so that one end of an object can be held between the thumb and index finger and the other end can be held between the ring and pinky fingers and the palm, holding it in place.
 
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
