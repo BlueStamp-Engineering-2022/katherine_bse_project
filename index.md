@@ -29,20 +29,27 @@ I liked learning how the breadboard worked and enjoyed experimenting with differ
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1657640738/video_to_markdown/images/youtube--cq2TIxhJM8k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cq2TIxhJM8k "First Milestone")
 
 # Starter Project
+<p>
+    
 My starter project was the Useless Machine. When the switch on the outside of the box is flipped, it powers a motor that is attached to an arm which moves to flip the switch in the opposite direction, causing the motor to spin in the opposite direction, bringing the arm back to its original position. The motor includes a piece of metal in the middle coiled by wire, which turns it into a magnet when electricity from the batteries runs through it. This magnet is surrounded by another magnet, and each of these magnets has a north pole on one side and a south pole on the other side. When the north side of one magnet meets the north side of the other magnet, the alike forces repel each other, causing the inner magnet to move a half rotation. The motor is able to move another half rotation when electromagnetic energy causes the charges of the poles of the outer magnet to switch, which places the north side of one magnet near the north side of the other magnet, causing the inner magnet to move another half rotation. At this point, the motor has spun a full rotation. This process repeats, allowing the motor to spin.
 
 This project helped me to learn how to sodder, but I had difficulties along the way. While soddering, it was taking me a long time to melt the sodder. Later I realized that I had forgotten to tin the tip of my sodder iron, which was slowing me down and causing me to lose efficiency while soddering. When I started tinning the tip of my iron, I found that the process went by much faster and made mental notes to periodically re-tin my tip when I was soddering. 
+    
+   </p>
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657641442/video_to_markdown/images/youtube--zHHrVlNTF08-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08&t=36s "Starter Project")
 
 # Gallery
 <details><summary>Starter Project</summary>
+<p>
     
-#### Useless Machine
+#### Useless Machine <br>
 
 #### Approaching
 
 #### Retreating
+    
+</p>    
   </details>
   
 <details><summary>Hand</summary>
