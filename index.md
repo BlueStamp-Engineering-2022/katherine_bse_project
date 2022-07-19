@@ -76,5 +76,5 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 Project Idea [^1]
 Flex Sensor Reference Code [^2]
 
-[^1]: https://create.arduino.cc/projecthub/laurencemlai/diy-glove-controlled-robotic-hand-ff5d63
-[^2]: https://www.ourpcb.com/flex-sensor-circuit.html
+[^1]: (https://create.arduino.cc/projecthub/laurencemlai/diy-glove-controlled-robotic-hand-ff5d63)
+[^2]: (https://www.ourpcb.com/flex-sensor-circuit.html)
