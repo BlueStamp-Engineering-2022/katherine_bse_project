@@ -29,50 +29,44 @@ I liked learning how the breadboard worked and enjoyed experimenting with differ
 [![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1657640738/video_to_markdown/images/youtube--cq2TIxhJM8k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=cq2TIxhJM8k "First Milestone")
 
 # Starter Project
-<p>
-    
 My starter project was the Useless Machine. When the switch on the outside of the box is flipped, it powers a motor that is attached to an arm which moves to flip the switch in the opposite direction, causing the motor to spin in the opposite direction, bringing the arm back to its original position. The motor includes a piece of metal in the middle coiled by wire, which turns it into a magnet when electricity from the batteries runs through it. This magnet is surrounded by another magnet, and each of these magnets has a north pole on one side and a south pole on the other side. When the north side of one magnet meets the north side of the other magnet, the alike forces repel each other, causing the inner magnet to move a half rotation. The motor is able to move another half rotation when electromagnetic energy causes the charges of the poles of the outer magnet to switch, which places the north side of one magnet near the north side of the other magnet, causing the inner magnet to move another half rotation. At this point, the motor has spun a full rotation. This process repeats, allowing the motor to spin.
 
 This project helped me to learn how to sodder, but I had difficulties along the way. While soddering, it was taking me a long time to melt the sodder. Later I realized that I had forgotten to tin the tip of my sodder iron, which was slowing me down and causing me to lose efficiency while soddering. When I started tinning the tip of my iron, I found that the process went by much faster and made mental notes to periodically re-tin my tip when I was soddering. 
-    
-   </p>
 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657641442/video_to_markdown/images/youtube--zHHrVlNTF08-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08&t=36s "Starter Project")
 
+# test
+
 # Gallery
-<details><summary>Starter Project</summary>
-<p>
+<details>
+    <summary>Starter Project</summary>
     
-#### Useless Machine <br>
-
-#### Approaching
-
-#### Retreating
-    
-</p>    
-  </details>
+    #### Useless Machine
   
-<details><summary>Hand</summary>
+</details>
+  
+<details>
+    <summary>Hand</summary>
     
-#### Prototype Hand 
-![Prototype Hand](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png)
-    
-#### Front View
-    
-#### Side View
-    
-#### Angry Hand
-    
-#### Musically Gifted Hand
-    
-#### Circuit Diagram
-![Circuit Diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png)
+    #### Prototype Hand 
+    ![Prototype Hand](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png)
 
-#### Circuit Schematic
-![Circuit Schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG)
- 
-#### Hand Render
-![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
+    #### Front View
+
+    #### Side View
+
+    #### Angry Hand
+
+    #### Musically Gifted Hand
+
+    #### Circuit Diagram
+    ![Circuit Diagram](https://user-images.githubusercontent.com/108292161/179852639-0af2abf4-4445-4ecb-ae5a-190b91a29b11.png)
+
+    #### Circuit Schematic
+    ![Circuit Schematic](https://user-images.githubusercontent.com/108292161/179852789-cf5e3692-36a1-47f4-aa93-d5166557289f.PNG)
+
+    #### Hand Render
+    ![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
   </details>
 
 # References
