@@ -1,6 +1,8 @@
 ﻿# Glove-Controlled Robotic Hand
 My project is a glove-controlled robotic hand, which is a hand that takes information from a glove covered in flex sensors to move. It is intended to be able to hold objects and display musical techniques.
 
+   ![front](https://user-images.githubusercontent.com/108292161/180023794-99af88ab-56eb-471b-b586-8db76d141d47.jpg)
+
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Katherine | Monta Vista High School | Electrical Engineering | Incoming Junior
@@ -49,15 +51,12 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 
 <details><summary>Hand</summary>
 <p>
-
-#### Prototype Hand 
-   ![Prototype Hand](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png) 
-
-#### Front View 
-   ![front](https://user-images.githubusercontent.com/108292161/180023794-99af88ab-56eb-471b-b586-8db76d141d47.jpg)
    
 #### Side View 
    ![side](https://user-images.githubusercontent.com/108292161/180023909-9c0e0b7a-8642-41c5-8965-d9bf5d5d99bb.jpg)
+   
+#### Prototype Hand 
+   ![Prototype Hand](https://user-images.githubusercontent.com/108292161/179859558-7723ad97-5a88-46f3-9ace-8e3a130621bc.png) 
    
 #### Angry Hand 
    ![angry](https://user-images.githubusercontent.com/108292161/180023861-b4966ccb-7c46-495b-8150-cbff8bfb71b3.jpg)
