@@ -39,14 +39,14 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 
 # Gallery
 <details><summary>:arrow_right: Starter Project </summary>
-&nbsp;
+
 #### Useless Machine
    ![useless_machine](https://user-images.githubusercontent.com/108292161/180023994-4e5545d3-af42-4005-8d84-86c2e705ee5d.jpg)
    
 </details>
 
 <details><summary>:arrow_right: Main Project</summary>
-&nbsp;
+
 #### Side View 
    ![side](https://user-images.githubusercontent.com/108292161/180023909-9c0e0b7a-8642-41c5-8965-d9bf5d5d99bb.jpg)
    
