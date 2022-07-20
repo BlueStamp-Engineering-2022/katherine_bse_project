@@ -1,11 +1,6 @@
 ﻿# Glove-Controlled Robotic Hand
 My project is a glove-controlled robotic hand, which is a hand that takes information from a glove covered in flex sensors to move. It is intended to be able to hold objects and display musical techniques.
 
-&nbsp;<details><summary>Collapsed Text</summary>When I try to add the hashtags inside
-&nbsp;<details><summary>Hidden Heading</summary>
-## New User
-&nbsp;</details></details>
-
    ![front](https://user-images.githubusercontent.com/108292161/180023794-99af88ab-56eb-471b-b586-8db76d141d47.jpg)
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -50,7 +45,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
    
 </details>
 
-&nbsp;<details><summary>Main Project</summary>
+&nbsp;<details>Main Project
    
 #### Side View 
    ![side](https://user-images.githubusercontent.com/108292161/180023909-9c0e0b7a-8642-41c5-8965-d9bf5d5d99bb.jpg)
