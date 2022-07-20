@@ -48,7 +48,6 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 
 
 &nbsp;<details><summary> **Main Project** </summary>
-<p>
    
 #### Side View 
    ![side](https://user-images.githubusercontent.com/108292161/180023909-9c0e0b7a-8642-41c5-8965-d9bf5d5d99bb.jpg)
@@ -71,7 +70,6 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 #### Hand Render 
    ![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
    
-</p>
 &nbsp;</details>
 
 
