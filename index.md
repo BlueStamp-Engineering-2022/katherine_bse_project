@@ -69,7 +69,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
    ![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
    
 </details>
-
+&nbsp; 
 
 # References
 Project Idea [^1]<br>
