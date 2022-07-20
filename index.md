@@ -45,7 +45,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
    
 </details>
 
-&nbsp;<details>Main Project
+&nbsp;<details><summary>Main Project</summary>
    
 #### Side View 
    ![side](https://user-images.githubusercontent.com/108292161/180023909-9c0e0b7a-8642-41c5-8965-d9bf5d5d99bb.jpg)
