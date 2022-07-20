@@ -40,7 +40,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 **test**
 
 # Gallery
-<details><summary>:arrow_right: Starter Project </summary>
+<details><summary> **Starter Project** </summary>
 <p>
 
 #### Useless Machine
