@@ -40,12 +40,10 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 # Gallery
 
 &nbsp;<details><summary> **Starter Project** </summary>
-<p>
    
 #### Useless Machine
    ![useless_machine](https://user-images.githubusercontent.com/108292161/180023994-4e5545d3-af42-4005-8d84-86c2e705ee5d.jpg)
    
-   </p>
 &nbsp;</details>
 
 
