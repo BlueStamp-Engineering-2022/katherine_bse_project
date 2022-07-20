@@ -38,14 +38,14 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 [![Starter Project](https://res.cloudinary.com/marcomontalbano/image/upload/v1657641442/video_to_markdown/images/youtube--zHHrVlNTF08-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=zHHrVlNTF08&t=36s "Starter Project")
 
 # Gallery
-<details><summary>&rarr;  **Starter Project**</summary>
+<details><summary>&rarr;  &nbsp;**Starter Project**</summary>
 
 #### Useless Machine
    ![useless_machine](https://user-images.githubusercontent.com/108292161/180023994-4e5545d3-af42-4005-8d84-86c2e705ee5d.jpg)
    
 </details>
 
-<details><summary>&rarr;  **Main Project**</summary>
+<details><summary>&rarr;  &nbsp;**Main Project**</summary>
 
 #### Side View 
    ![side](https://user-images.githubusercontent.com/108292161/180023909-9c0e0b7a-8642-41c5-8965-d9bf5d5d99bb.jpg)
