@@ -43,7 +43,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 #### Useless Machine
    ![useless_machine](https://user-images.githubusercontent.com/108292161/180023994-4e5545d3-af42-4005-8d84-86c2e705ee5d.jpg)
    
-</details>
+&nbsp;</details>
 
 &nbsp;<details><summary>&rarr;  **Main Project**</summary>
 
@@ -68,7 +68,7 @@ This project helped me to learn how to sodder, but I had difficulties along the 
 #### Hand Render 
    ![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
    
-</details>
+&nbsp;</details>
 &nbsp; 
 &nbsp;
 &nbsp;
