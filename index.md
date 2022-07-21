@@ -1,7 +1,7 @@
 ﻿# Glove-Controlled Robotic Hand
 My project is a glove-controlled robotic hand, which is a hand that takes information from a glove covered in flex sensors to move. It is intended to be able to hold objects and display musical techniques.
 
-color `#CCFF99`
+color `#9900FF`
 
    ![front](https://user-images.githubusercontent.com/108292161/180023794-99af88ab-56eb-471b-b586-8db76d141d47.jpg)
 
