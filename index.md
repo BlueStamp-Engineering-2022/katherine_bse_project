@@ -16,6 +16,8 @@ To add the joint, I implemented an extra 3D part I had designed that acted as pa
 
 Another issue I ran into was that my servo was too weak to pull the hand all the way down. The servo could only move a tiny bit, and the wrist would not bend. To solve this, I secured the servo to the cardboard base with hot glue and duct tape, threaded elastic through the servo horn, and stuck that elastic to the board as well. This made it so that there was a force drawing the servo to the cardboard base, pulling the servo away from the hand. This caused the hand to then move with the servo, bending the hand at the wrist.
 
+Next steps are to increase the range of the wrist, likely by using a stronger motor, and adding grips on the fingerpads so that held items can't slip out easily.
+
 #### Hand With Wrist
 ![with_wrist](https://user-images.githubusercontent.com/108292161/180567431-2edd1f88-a586-4fc2-9254-fc7b29994830.png)
 
