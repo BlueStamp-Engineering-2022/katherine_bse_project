@@ -21,6 +21,9 @@ Next steps are to increase the range of the wrist, likely by using a stronger mo
 #### Hand With Wrist
 ![with_wrist](https://user-images.githubusercontent.com/108292161/180567431-2edd1f88-a586-4fc2-9254-fc7b29994830.png)
 
+#### Hand With Wrist, Wrist Unbent
+![IMG_20220722_133109](https://user-images.githubusercontent.com/108292161/180569214-33dbd8f6-7f11-459f-97f4-699c879625a0.jpg)
+
 #### Hand With Wrist, Wrist Bent
 ![bent_wrist](https://user-images.githubusercontent.com/108292161/180567653-40b2263b-62c8-4704-82b6-8f42bfc5890e.jpg)
 
