@@ -9,6 +9,17 @@ My project is a glove-controlled robotic hand, which is a hand that takes inform
 
 ![Headstone Image](https://user-images.githubusercontent.com/108292161/179852268-de31a649-9426-4229-bcb8-5d4d218b1511.png)
 
+# Bonus Milestone
+As a final add-on, I added a wrist joint. I wanted to do this to make my design more unique and enable my hand to hit surfaces, and, by extension, play music (through the hitting of surfaces).
+
+To add the joint, I implemented an extra 3D part I had designed that acted as part of the forearm. At first, I treated the wrist joint like the finger joints, with a spring and string in the middle. However, I found that this didn't work, as the spring couldn't hold up the weight of the rest of the hand and pulling the string wouldn't bend the wrist. Instead, I used strips of elastic, as they could hold the hand to the forearm and stretch when the wrist was bent. Instead of the string being inside the forearm part and running from the top of the part to the bottom, I placed it outside the part and had it run from the base of the thumb to the cardboard the hand is placed on. I found that this worked much better and allowed the hand to bend at the wrist and become straight again.
+
+Another issue I ran into was that my servo was too weak to pull the hand all the way down. The servo could only move a tiny bit, and the wrist would not bend. To solve this, I secured the servo to the cardboard base with hot glue and duct tape, threaded elastic through the servo horn, and stuck that elastic to the board as well. This made it so that there was a force drawing the servo to the cardboard base, which gave it enough force to move the hand and bend at the wrist.
+
+![with_wrist](https://user-images.githubusercontent.com/108292161/180567431-2edd1f88-a586-4fc2-9254-fc7b29994830.png)
+
+![bent_wrist](https://user-images.githubusercontent.com/108292161/180567653-40b2263b-62c8-4704-82b6-8f42bfc5890e.jpg)
+
 # Final Milestone
 My third milestone was assembling my 3D parts. I designed these parts using TinkerCAD, a 3D modeling tool, and they were printed using a 3D printer. The 3D printer prints parts by melting plastic wires and using it to draw a flat shape on a surface. When this shape is drawn, the nozzle moves up a tiny bit and draws another shape on top of the other shape. This process repeats until the whole structure is done. 
 
