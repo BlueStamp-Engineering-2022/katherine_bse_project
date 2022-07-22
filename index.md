@@ -16,7 +16,7 @@ Assembling the parts involved some trial and error because the parts I designed 
 
 I enjoyed seeing the project come together, and having a hand that moves cleanly after having to deal with my styrofoam prototype for two weeks. While there are more things I could do, like adding a wrist joint and making the sensitivity between the fingers and the sensors more accurate, I am proud of what I have accomplished so far and am looking forward to making other projects with the skills I have gained.
 
-
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1658504067/video_to_markdown/images/youtube--kL9WrWjRzI4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=kL9WrWjRzI4 "Final Milestone")
 
 # Second Milestone
 My second milestone was adding a glove covered in flex sensors and making it compatible with my prototype hand. Flex sensors are plastic strips with layers of carbon that conduct electricity. When the sensor is bent, the carbon is stretched and increases the resistance of the current going through the sensor. This information is sent to the Arduino, and my code turns that information into servo angles so that, when the sensor is bent, the servos will move. 
