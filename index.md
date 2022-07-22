@@ -16,8 +16,10 @@ To add the joint, I implemented an extra 3D part I had designed that acted as pa
 
 Another issue I ran into was that my servo was too weak to pull the hand all the way down. The servo could only move a tiny bit, and the wrist would not bend. To solve this, I secured the servo to the cardboard base with hot glue and duct tape, threaded elastic through the servo horn, and stuck that elastic to the board as well. This made it so that there was a force drawing the servo to the cardboard base, pulling the servo away from the hand. This caused the hand to then move with the servo, bending the hand at the wrist.
 
+#### Hand With Wrist
 ![with_wrist](https://user-images.githubusercontent.com/108292161/180567431-2edd1f88-a586-4fc2-9254-fc7b29994830.png)
 
+#### Hand With Wrist, Wrist Bent
 ![bent_wrist](https://user-images.githubusercontent.com/108292161/180567653-40b2263b-62c8-4704-82b6-8f42bfc5890e.jpg)
 
 # Final Milestone
@@ -79,6 +81,14 @@ This project helped me to learn how to sodder, but I had difficulties along the 
    
 #### Hand Render 
    ![Hand Render](https://user-images.githubusercontent.com/108292161/179852717-febe5219-1f85-4dcf-aa06-00bf7dd2f4f9.PNG)
+
+#### Hand With Wrist With Mallet   
+   ![IMG_20220722_133348](https://user-images.githubusercontent.com/108292161/180568537-8a05551b-a759-4bf4-84eb-cf67284de35b.jpg)
+   
+#### Hand With Wrist With Mallet, Wrist Bent
+   ![IMG_20220722_133414](https://user-images.githubusercontent.com/108292161/180568503-ce277557-1a73-4f0d-a435-c124e6c7fa54.jpg)
+
+   
 &nbsp;</details>
 &nbsp; 
 &nbsp;
